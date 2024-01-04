@@ -1,3 +1,4 @@
+```
    DateTime now = DateTime.now();
     String greeting = "";
     int hours = now.hour;
@@ -11,3 +12,4 @@
     } else if (hours >= 21 && hours <= 24) {
       greeting = "Good Night";
     }
+```
