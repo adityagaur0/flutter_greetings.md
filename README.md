@@ -1,5 +1,5 @@
 ```
-   DateTime now = DateTime.now();
+DateTime now = DateTime.now();
     String greeting = "";
     int hours = now.hour;
 
